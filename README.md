@@ -2,6 +2,11 @@
 
 # Fine-Tuning Qwen 2.5 Coder for LeetCode Problem Solving
 
+![WhatsApp Image 2025-08-04 at 22 38 27_92d46d0f](https://github.com/user-attachments/assets/c59f6d91-ec47-40c7-ad02-9438d87776f2)
+
+![WhatsApp Image 2025-08-04 at 22 38 17_2e514bd3](https://github.com/user-attachments/assets/0cf1b9b2-63d3-42a2-a855-1ec36a9bf55f)
+
+
 ## 📌 Overview
 This project fine-tunes the **Qwen 2.5 Coder** model on a dataset of **5,000 LeetCode problems** to improve its ability to solve algorithmic coding challenges.  
 Using **Low-Rank Adaptation (LoRA)**, the model was specialized to generate optimized, accurate, and executable solutions for competitive programming problems.
